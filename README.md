@@ -1,4 +1,4 @@
-# Final Project:台股即時資訊與linebot整合
+# Final Project: 台股即時資訊&LineBot應用
 ## Introduction
 最近有小小研究股市，但每次看盤或想查詢一支股票的時候都得打開app，
 就想到可以透過證交所的API(twstock)，結合Linebot，只要傳送想看的股票代碼，
