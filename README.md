@@ -43,7 +43,7 @@
 * Data: [台灣證券交易所](https://www.twse.com.tw/zh/)
 * linebot教學: [6步驟快速上手LINE Bot機器人](https://www.learncodewithmike.com/2020/06/python-line-bot.html)
 ## Results
-* 股票基本資料、近五日、即時資料
+* 股票基本資料、近五日、即時資料(以台積電為例)
 
 ![image](https://user-images.githubusercontent.com/62441311/122953511-5a255400-d3b1-11eb-89a7-baaee6ae3a8f.png)
 ![image](https://user-images.githubusercontent.com/62441311/122953957-9c4e9580-d3b1-11eb-827b-a16819cb897b.png)
@@ -52,3 +52,6 @@
 
 ![image](https://user-images.githubusercontent.com/62441311/122954301-e46db800-d3b1-11eb-81e5-75a79549d400.png)
 
+* matplotlib開盤收盤走勢圖(2021/1到現在)
+
+![day20_01](https://user-images.githubusercontent.com/62441311/122957908-f8ff7f80-d3b4-11eb-9c15-3f66153fbad7.png)
